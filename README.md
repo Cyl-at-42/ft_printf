@@ -1,4 +1,2 @@
 # ft_printf
-ft_printf project
-
-W.I.P...
+ft_printf project avec tous les bonus
